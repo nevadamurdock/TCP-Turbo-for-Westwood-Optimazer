@@ -1,4 +1,4 @@
-#🚀 TCP Turbo: Westwood+ Optimizer
+# 🚀 TCP Turbo: Westwood+ Optimizer
 
 TCP Turbo is a Magisk/KernelSU module specifically designed to optimize network performance on Android devices. Focusing on the TCP Westwood+ algorithm and the fq_codel scheduler, this module aims to reduce latency (ping) and improve connection stability, especially on wireless networks (Wi-Fi & Mobile Data).
 
