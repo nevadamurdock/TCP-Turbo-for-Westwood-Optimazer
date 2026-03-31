@@ -1,0 +1,6 @@
+id=westwood_low_latency
+name=TCP Turbo: Westwood+
+version=v1.0
+versionCode=1.0
+author=NevadaMurdock/GusKernel
+description=Network optimization using TCP Westwood and fq_codel to improve wireless connection stability and reduce latency.
