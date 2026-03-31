@@ -21,6 +21,7 @@ TCP Turbo is a Magisk/KernelSU module specifically designed to optimize network 
 1. The device must be rooted using Magisk or KernelSU.
 
 2. The device kernel must support TCP Westwood (CONFIG_TCP_CONG_WESTWOOD=y).
+
    Check via Termux: cat /proc/sys/net/ipv4/tcp_available_congestion_control
 
 # 📥 Instalation:
